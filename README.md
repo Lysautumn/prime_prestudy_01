@@ -11,7 +11,7 @@ Files in this repository:
 This contains the simple backbone of the app, nothing much renders on the page on load.
 
 ## styles.css
-The stylesheet styles the <h1> that the user sees when the page loads.
+The stylesheet styles the header that the user sees when the page loads.
 
 ## script.js
 The JavaScript file contains one piece of code, to console.log that the JS is working.
